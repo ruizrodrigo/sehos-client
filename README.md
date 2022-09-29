@@ -1,4 +1,5 @@
 <h2>Sehos E-Commerce</h2>
+<h3><a href="https://sehos.netlify.app/">Deploy</a></h3></br>
 <div>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff"> <img src="https://img.shields.io/badge/Redux-Redux--Toolkit-yellowgreen"> <img src="https://img.shields.io/badge/-Express.js-787878?style=flat&logo=Express&logoColor=white"> <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white"> <img src='https://img.shields.io/badge/-Nodemailer-2D8C1E?logo=nodemailer'> <img src='https://img.shields.io/badge/-Stripe-314297?logo=stripe&logoColor=ffffff'> <img src='https://img.shields.io/badge/-Cloudinary-B8971D?logo=cloudinary&logoColor=ffffff'> <img src='https://img.shields.io/badge/-MaterialUI-1DB8B1?logo=mui&logoColor=ffffff'> <img src='https://img.shields.io/badge/Netlify-Deploy-green'><img src='https://img.shields.io/badge/Postgre-SQL-orange'/>
 </div>
